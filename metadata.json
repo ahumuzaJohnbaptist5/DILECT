@@ -1,0 +1,6 @@
+{
+  "name": "DILECT",
+  "description": "Digital Institutional News and Communication Platform — centralized, verified multi-tenant institutional newsroom, editorial workflow, and events hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
